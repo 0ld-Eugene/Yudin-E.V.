@@ -10,4 +10,8 @@ body {
    min-height: 100%;
    display: flex;
    flex-direction: column;
+}.header {
+   padding: 40px;
+   text-align: center;
+   background-color: #f8ec83;
 }
